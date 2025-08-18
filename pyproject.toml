@@ -24,8 +24,8 @@ dependencies = [
     "langchain-pinecone>=0.2.8",
     "pq>=1.9.1",
     "langchain-mcp-adapters>=0.1.7",
-    "psycopg2>=2.9.10",
     "faker>=37.4.0",
     "pydub>=0.25.1",
     "yt-dlp>=2025.6.30",
+    "psycopg[binary]>=3.2.9",
 ]
